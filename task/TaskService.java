@@ -1,3 +1,8 @@
+/**
+ * Service class for managing {@link Task} objects.
+ * Provides CRUD operations (Create, Read, Update, Delete) for tasks,
+ * managing them in an in-memory data store.
+ */
 package task;
 
 import java.util.ArrayList;
