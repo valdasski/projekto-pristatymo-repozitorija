@@ -1,3 +1,7 @@
+/**
+ * Represents a task item with properties such as ID, title, description, and completion status.
+ * This class serves as a data model for managing individual tasks within an application.
+ */
 package task;
 
 public class Task {
